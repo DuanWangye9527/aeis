@@ -1,3 +1,10 @@
+> **Status Update (2026-03-09):** The core ideas in AEIS-1 are being incorporated
+> directly into the ARP protocol. The `agent.arp` ENS Text Record convention and
+> resolution algorithm proposed here are now part of ARP's official roadmap.
+> Follow the discussion at https://github.com/offgrid-ing/arp/issues/24
+
+---
+
 # AEIS — ARP-ENS Identity Standard
 
 **Bind your ENS name to an AI Agent. Make your agent discoverable.**
